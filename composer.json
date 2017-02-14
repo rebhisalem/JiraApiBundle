@@ -5,16 +5,8 @@
     "keywords": ["jira", "rest", "symfony"],
     "authors": [
         {
-            "name": "Kees Schepers",
-            "email": "kees@keesschepers.nl"
-        },
-        {
-            "name": "Peter Paul Keulers",
-            "email": "pkeulers@gmail.com"
-        },
-        {
-            "name": "Liju Pallikadavath Mohanan",
-            "email": "liju.p.mohanan@medicore.nl"
+            "name": "Salem Rabhi",
+            "email": "infoshosting@gmail.com"
         }
     ],
     "require": {
