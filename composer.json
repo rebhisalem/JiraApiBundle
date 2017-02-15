@@ -1,5 +1,5 @@
 {
-    "name": "salem/jira-api-bundle",
+    "name": "rabhisalem/jira-api-bundle",
     "type": "symfony-bundle",
     "description": "Jira REST API integration in Symfony2.",
     "keywords": ["jira", "rest", "symfony"],
